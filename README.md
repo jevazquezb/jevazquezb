@@ -1,8 +1,6 @@
 ![Banner](./images/banner.png)
 
 ## 🧔 About me
-#
-
 > I like learning and experimenting with new technologies, building projects and assisting to programming events.
 
 Here's a description list of my experience and knowledge:
@@ -14,12 +12,10 @@ Here's a description list of my experience and knowledge:
 - Interests: Programming 💻 | Tennis 🎾 | Reading 📕 | Seafood 🦐 | Learning 🤓
 
 ## 📊 Stats
-#
 ![Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jevazquezb&count_private=true&show_icons=true&theme=codeSTACKr)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jevazquezb&langs_count=3&layout=compact&theme=codeSTACKr)
 
 ## 📭 Contact
-#
 <code><a href="https://www.linkedin.com/in/jevazquezb/" target="_blank"><img src="./images/linkedin.png" width="50px" alt="LinkedIn logo" title="LinkedIn"></a></code>
 <a href="https://twitter.com/javb_1187" target="_blank"><img src="./images/twitter.svg" width="50px" alt="LinkedIn logo" title="LinkedIn"></a>
 
