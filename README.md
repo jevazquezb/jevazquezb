@@ -17,9 +17,9 @@ Here's a description list of my experience and knowledge:
 
 ## 📭 Contact
 <code><a href="https://www.linkedin.com/in/jevazquezb/" target="_blank"><img src="./images/linkedin.png" width="50px" alt="LinkedIn logo" title="LinkedIn"></a></code>
-<code><a href="https://www.upwork.com/freelancers/jevazquezb" target="_blank"><img src="./images/upwork-icon-black.png" width="55px" alt="LinkedIn logo" title="LinkedIn"></a></code>
-<code><a href="mailto: jesus.vazquez@javb.dev"><img src="./images/email-icon.png" width="50px" alt="LinkedIn logo" title="LinkedIn"></a></code>
-<code><a href="https://twitter.com/javb_1187" target="_blank"><img src="./images/twitter.svg" width="50px" alt="LinkedIn logo" title="LinkedIn"></a></code>
+<code><a href="https://www.upwork.com/freelancers/jevazquezb" target="_blank"><img src="./images/upwork-icon-black.png" width="55px" alt="Upwork logo" title="Upwork"></a></code>
+<code><a href="mailto: jesus.vazquez@javb.dev"><img src="./images/email-icon.png" width="50px" alt="Email icon" title="Email"></a></code>
+<code><a href="https://x.com/javb_1187" target="_blank"><img src="./images/twitter-x-icon.png" width="50px" alt="X logo" title="X"></a></code>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jevazquezb.jevazquezb&left_color=black&right_color=darkorange)
 
