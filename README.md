@@ -21,7 +21,7 @@ Here's a description list of my experience and knowledge:
 <code><a href="mailto: jesus.vazquez@javb.dev"><img src="./images/email-icon.png" width="50px" alt="Email icon" title="Email"></a></code>
 <code><a href="https://x.com/javb_1187" target="_blank"><img src="./images/twitter-x-icon.png" width="50px" alt="X logo" title="X"></a></code>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jevazquezb.jevazquezb&left_color=black&right_color=darkorange)
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fjevazquezb%2Fjevazquezb.json&label=Profile%20views&color=darkorange)
 
 
 <!--
